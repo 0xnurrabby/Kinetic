@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_BASE64_HEADER",
+    "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+    "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Kinetik",
+    "homeUrl": "https://YOUR_DOMAIN/",
+    "iconUrl": "https://YOUR_DOMAIN/assets/icon.png",
+    "splashImageUrl": "https://YOUR_DOMAIN/assets/splash.png",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "Mine blocks by walking.",
+    "description": "A hardware-wallet-themed proof-of-walk mini app: start a walk session, generate kinetic hashrate, and mine your daily block.",
+    "primaryCategory": "Health-Fitness",
+    "tags": [
+      "fun",
+      "simple",
+      "utility"
+    ],
+    "heroImageUrl": "https://YOUR_DOMAIN/assets/hero.png",
+    "ogTitle": "Kinetik",
+    "ogDescription": "A hardware-wallet-themed proof-of-walk mini app: start a walk session, generate kinetic hashrate, and mine your daily block.",
+    "ogImageUrl": "https://YOUR_DOMAIN/assets/hero.png",
+    "screenshotUrls": [
+      "https://YOUR_DOMAIN/assets/hero.png"
+    ],
+    "noindex": true
+  }
+}
