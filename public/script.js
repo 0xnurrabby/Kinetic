@@ -11,10 +11,10 @@ const STEPS_PER_BLOCK = 1000;
 const USDC_CONTRACT = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913";
 const DECIMALS = 6;
 
-const BUILDER_CODE = "TODO_REPLACE_BUILDER_CODE";
+const BUILDER_CODE = "bc_fb3j27h6";
 // User can find this at base.dev → Settings → Builder Code
 
-const RECIPIENT = "0x0000000000000000000000000000000000000000"; // TODO: Must be checksummed EVM address
+const RECIPIENT = "0x5eC6AF0798b25C563B102d3469971f1a8d598121"; // TODO: Must be checksummed EVM address
 
 const dataSuffix = Attribution.toDataSuffix({
   codes: [BUILDER_CODE]
