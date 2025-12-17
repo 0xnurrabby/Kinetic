@@ -13,7 +13,7 @@
     "splashBackgroundColor": "#020617",
     "subtitle": "Mine blocks by walking.",
     "description": "A hardware-wallet-themed proof-of-walk mini app: start a walk session, generate kinetic hashrate, and mine your daily block.",
-    "primaryCategory": "Health-Fitness",
+    "primaryCategory": "health-fitness",
     "tags": [
       "fun",
       "simple",
